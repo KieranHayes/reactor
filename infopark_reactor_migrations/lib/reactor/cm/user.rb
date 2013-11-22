@@ -2,6 +2,8 @@
 require 'reactor/cm/object_base'
 require 'reactor/configuration'
 require 'reactor/cm/language'
+require 'reactor/cm/missing_credentials'
+require 'reactor/cm/xml_request'
 require 'reactor/tools/xml_attributes'
 
 module Reactor
